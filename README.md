@@ -1,2 +1,13 @@
 # my-first-project
-Hello GitHub
+
+Hello 👋
+
+My name is [Khaled]
+
+## About me
+- I am learning programming
+- This is my first GitHub project
+
+## Goals
+- Learn coding
+- Build projects
